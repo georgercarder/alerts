@@ -88,4 +88,4 @@ fido := newDog()
 ```
 
 
-### Please let me know in git issue if you have questions, comments, or would liek to contribute. 
+### Please let me know in git issue if you have questions, comments, or would like to contribute. 
